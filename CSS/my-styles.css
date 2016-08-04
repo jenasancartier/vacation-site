@@ -1,0 +1,20 @@
+.jumbotron {
+  margin-top: 50px;
+  text-align: center;
+  border: solid black;
+}
+
+.jumbotron h1 {
+  font-size: 60px;
+}
+
+.jumbotron p {
+  font-size: 30px;
+}
+
+.row {
+  margin-left: 0;
+  margin-right: 0;
+  border: solid black;
+  text-align: center;
+}
